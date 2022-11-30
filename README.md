@@ -1,5 +1,5 @@
 # AKT  
-11-ИС101  
-Anosova Alyona   
+11-is101  
+Anosova Alena   
 Tverdokhleb Vitalina   
 Fedorova Yana
